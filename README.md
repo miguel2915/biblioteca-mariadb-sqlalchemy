@@ -152,9 +152,3 @@ python crear_tablas.py
 Ejecutar la aplicación:
 python app.py
 
-Autor
-Proyecto desarrollado como parte de una asignación universitaria utilizando Python, MariaDB y SQLAlchemy.
-
-**Eso completo va solamente dentro de `README.md`.** ✅
-
-Después de pegarlo, **Ctrl + S** y listo.
